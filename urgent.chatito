@@ -1,0 +1,16 @@
+%[urgent]('training': '75', 'testing': '25')
+    @[bodyparts]好痛
+    @[bodyparts]有點痛
+    @[bodyparts]有點痛，可能需要去一趟醫院
+    @[bodyparts]有點痛，我要去看醫生
+    我的@[bodyparts]有點痛
+
+@[bodyparts]
+    肚子
+    頭
+    腳
+    手
+    胸口
+    眼睛
+    鼻子
+    牙齒
