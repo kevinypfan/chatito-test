@@ -1,0 +1,22 @@
+%[urgent]('training': '75', 'testing': '25')
+    幫我拿@[tableware]
+    幫我拿@[sweeping_tools]
+
+@[tableware]
+    碗筷
+    碗
+    杯子
+    筷子
+    湯匙
+    叉子
+
+@[sweeping_tools]
+    掃把
+    拖把
+    抹布
+    濕紙巾
+    濕抹布
+    乾抹布
+    衛生紙
+    報紙
+
