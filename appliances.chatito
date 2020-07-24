@@ -1,0 +1,43 @@
+%[appliances]
+    電視幫我轉到@[number]台
+    @[appliances]@[switch]
+    幫我把@[appliances]@[switch]
+    冷氣調@[level]@[number]度
+    開個@[appliances]，感覺有點悶
+    好像有點悶，開個@[appliances]
+    我要看@[number]台
+    有點冷，冷氣調高一點
+    有點熱，冷氣調低一點
+
+
+@[level]
+    高
+    低
+
+@[appliances]
+    電視
+    燈
+    電扇
+    冷氣
+    除濕機
+    電腦
+
+@[switch]
+    關掉
+    開起來
+
+@[number]
+    23
+    1
+    4
+    5
+    8
+    9
+    234
+    128
+    34
+    32
+    90
+    83
+    27
+    48

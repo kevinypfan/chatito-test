@@ -1,6 +1,25 @@
-%[housework]('training': '75', 'testing': '25')
+%[housework]
     幫我拿@[tableware]
     幫我拿@[sweeping_tools]
+    要@[do_daliy]囉
+    拿@[sweeping_tools]清一下
+    幫我清理一下
+    準備要去@[do_daliy]
+    等等要@[do_daliy]
+    收一下@[tableware]
+    收一下@[sweeping_tools]
+    拿@[sweeping_tools]過來
+    拿@[sweeping_tools]給我
+    拿@[tableware]過來
+    拿@[tableware]給我
+    該@[do_daliy]了吧
+
+@[do_daliy]
+    洗澡
+    刷牙
+    洗臉
+    洗手
+    吃藥
 
 @[tableware]
     碗筷
@@ -19,4 +38,5 @@
     乾抹布
     衛生紙
     報紙
+
 

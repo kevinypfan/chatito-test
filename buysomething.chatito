@@ -1,20 +1,21 @@
-%[buysomething]('training': '75', 'testing': '25')
-    @[date?]突然好想吃@[food]
+%[buysomething]
+    ~[date?]突然好想吃@[food]
     我想吃@[store]的@[food]
     @[meal]有點想吃@[food]
     我要@[store?]@[food]
-    幫我買@[quantifier?]@[store]@[drink]
+    幫我買~[quantifier?]@[store]@[drink]
     我想吃個@[food]
-    可不可以幫我買@[quantifier?]@[drink]
+    可不可以幫我買~[quantifier?]@[drink]
     可不可以幫我買@[store?]的@[food]
-    我要@[quantifier]@[food]
-    我要@[quantifier]@[drink]
+    我要~[quantifier]@[food]
+    我要~[quantifier]@[drink]
     肚子好餓好想吃@[store?]@[food]
-    我要@[quantifier]@[drink]加@[food]
-    我想要@[quantifier?]@[food]
-    我想要@[quantifier?]@[drink]
+    我要~[quantifier]@[drink]加@[food]
+    我想要~[quantifier?]@[food]
+    我想要~[quantifier?]@[drink]
 
-@[date]
+
+~[date]
     今天
     現在
 
@@ -58,8 +59,13 @@
     紅茶
     拿鐵
     卡布奇諾
+    可樂
+    沙士
+    汽水
+    蘋果西打
+    可爾必思
 
-@[quantifier]
+~[quantifier]
     一杯
     杯
     一個

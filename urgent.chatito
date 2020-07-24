@@ -1,9 +1,15 @@
-%[urgent]('training': '75', 'testing': '25')
+%[urgent]
     @[bodyparts]好痛
     @[bodyparts]有點痛
     @[bodyparts]有點痛，可能需要去一趟醫院
     @[bodyparts]有點痛，我要去看醫生
     我的@[bodyparts]有點痛
+    @[bodyparts]有點痠痛
+    這邊碰到就會痛
+    @[bodyparts]好不舒服
+    @[bodyparts]不舒服，好痛苦
+    感覺@[bodyparts]不舒服
+
 
 @[bodyparts]
     肚子
@@ -14,3 +20,10 @@
     眼睛
     鼻子
     牙齒
+    心臟
+    喉嚨
+    耳朵
+    肩膀
+    腳踝
+    膝蓋
+
